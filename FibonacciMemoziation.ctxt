@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FibonacciMemoziation
+comment0.text=\n\ Write\ a\ description\ of\ class\ FibonacciMemoziation\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=ars
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=int\ fibonacci(int)
+comment3.params=number
+comment3.target=int\ fibonacciM(int)
+comment4.params=n\ cach
+comment4.target=int\ fibonacciMemoization(int,\ int[])
+numComments=5
